@@ -17,7 +17,7 @@ Birth date
 March 19, 1998
 
 Location
-Sajiloni-Kajiado, Nairobi, KENYA
+Sajiloni-Kajiado, Nairobi, KENYA.
 
 # navigation bar
 
